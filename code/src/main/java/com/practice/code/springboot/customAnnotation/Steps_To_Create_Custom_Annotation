@@ -1,0 +1,5 @@
+There are basically three steps to create custom annotation -
+1. Define the Annotation.
+2. If you want to use defined annotation for logging, auditing, authorization, validation
+   you can create a Aspect class using spring AOP.
+3. Use the Annotation.
